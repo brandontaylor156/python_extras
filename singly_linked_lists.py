@@ -98,4 +98,4 @@ class SLNode:
 my_list = SList()
 my_list.add_to_front("are").add_to_front("Linked lists").add_to_back("fun!").add_to_front("Hello").add_to_back("Yay")
 
-my_list.remove_val("Yay").insert_at("Why", ).print_values()
+my_list.remove_val("Yay").insert_at("Why", 2).print_values()
